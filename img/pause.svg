@@ -1,0 +1,24 @@
+<svg width="340" height="340" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g id="Layer_1">
+  <title>Layer 1</title>
+  <line stroke="#ffffff" fill="none" stroke-width="null" stroke-dasharray="null" opacity="undefined" x1="30.16684" y1="359.33351" x2="138.83355" y2="359.33351" id="svg_2" stroke-linejoin="null" stroke-linecap="null"/>
+  <line fill="none" stroke="#ffffff" stroke-width="null" stroke-dasharray="null" opacity="undefined" x1="139.1669" y1="359.33351" x2="138.1669" y2="353.33351" id="svg_3" stroke-linejoin="null" stroke-linecap="null"/>
+  <line fill="none" stroke="#ffffff" stroke-width="null" stroke-dasharray="null" opacity="undefined" x1="138.16687" y1="352.66684" x2="145.16687" y2="358.66684" id="svg_4" stroke-linejoin="null" stroke-linecap="null"/>
+  <line stroke="#ffffff" transform="rotate(-44.35203552246094 146.83404541015625,355.33447265625) " fill="none" stroke-width="null" stroke-dasharray="null" opacity="undefined" x1="143.68886" y1="356.23727" x2="149.97921" y2="354.43166" id="svg_5" stroke-linejoin="null" stroke-linecap="null"/>
+  <line stroke="#ffffff" fill="none" stroke-width="null" stroke-dasharray="null" opacity="undefined" x1="148.16746" y1="353.33445" x2="149.16746" y2="358.33445" id="svg_6" stroke-linejoin="null" stroke-linecap="null"/>
+  <line fill="none" stroke-width="null" stroke-dasharray="null" opacity="undefined" x1="149.16748" y1="359.00115" x2="397.16747" y2="359.00115" id="svg_8" stroke-linejoin="null" stroke-linecap="null" stroke="#ffffff"/>
+  <line fill="none" stroke="#ffffff" stroke-width="null" stroke-dasharray="null" stroke-opacity="null" fill-opacity="null" opacity="undefined" x1="397.50091" y1="359.66786" x2="399.50091" y2="353.66786" id="svg_9" stroke-linejoin="null" stroke-linecap="null"/>
+  <line transform="rotate(-14.227311134338379 400.50091552734324,356.1678771972654) " stroke="#ffffff" fill="none" stroke-width="null" stroke-dasharray="null" stroke-opacity="null" fill-opacity="null" opacity="undefined" x1="400.5009" y1="351.66787" x2="400.5009" y2="360.66787" id="svg_10" stroke-linejoin="null" stroke-linecap="null"/>
+  <line stroke="#ffffff" fill="none" stroke-width="null" stroke-dasharray="null" stroke-opacity="null" fill-opacity="null" opacity="undefined" x1="402.16758" y1="359.66787" x2="407.16758" y2="351.66787" id="svg_11" stroke-linejoin="null" stroke-linecap="null"/>
+  <line fill="none" stroke="#ffffff" stroke-width="null" stroke-dasharray="null" stroke-opacity="null" fill-opacity="null" opacity="undefined" x1="407.16758" y1="352.0012" x2="408.16758" y2="360.0012" id="svg_12" stroke-linejoin="null" stroke-linecap="null"/>
+  <line transform="rotate(-17.782550811767578 410.16760253906233,356.1678771972656) " fill="none" stroke="#ffffff" stroke-width="null" stroke-dasharray="null" stroke-opacity="null" fill-opacity="null" opacity="undefined" x1="407.16758" y1="358.66787" x2="413.16758" y2="353.66787" id="svg_13" stroke-linejoin="null" stroke-linecap="null"/>
+  <line fill="none" stroke="#ffffff" stroke-width="null" stroke-dasharray="null" stroke-opacity="null" fill-opacity="null" opacity="undefined" x1="412.50092" y1="352.0012" x2="414.50092" y2="360.0012" id="svg_14" stroke-linejoin="null" stroke-linecap="null"/>
+  <line stroke="#ffffff" fill="none" stroke-width="null" stroke-dasharray="null" stroke-opacity="null" fill-opacity="null" opacity="undefined" x1="414.50071" y1="359.00098" x2="476.16759" y2="357.00098" id="svg_15" stroke-linejoin="null" stroke-linecap="null"/>
+  <path id="svg_24" d="m32.5,81.33333l59.5,22.66667" opacity="NaN" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke-width="null" stroke="#000" fill="#666666"/>
+  <ellipse stroke="#ffffff" ry="109" rx="114.5" id="svg_34" cy="171.33334" cx="170" stroke-dasharray="null" stroke-width="23" fill="#000000"/>
+  <path stroke="#999999" id="svg_35" d="m186.49331,116.39503l28.00001,0l0,116.00001l-28.00001,0l0,-116.00001z" opacity="undefined" stroke-opacity="null" stroke-dasharray="null" stroke-width="null" fill="#ffffff"/>
+  <path stroke="#999999" id="svg_37" d="m124.49331,116.39503l28.00001,0l0,116.00001l-28.00001,0l0,-116.00001z" opacity="undefined" stroke-opacity="null" stroke-dasharray="null" stroke-width="null" fill="#ffffff"/>
+ </g>
+</svg>
